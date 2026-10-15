@@ -152,5 +152,4 @@ condiciones, impacto, PoC reproducible y mitigación propuesta. Si es un 0day re
                                      └───────────────────┘
 ```
 
-*TODO: puedes exportar este flujo a un mapa mental (XMind / draw.io / Mermaid) y guardarlo en
-`assets/` como imagen.*
+
