@@ -3,7 +3,7 @@
 > No tengo acceso a internet: **verifica cada enlace y cada dato** antes de entregar. Añade los
 > recursos que **tú** hayas usado realmente (vídeos, write-ups, conferencias del módulo).
 
-## Bibliografía (del manual del módulo)
+## Bibliografía
 
 - Benjamin Strout. *The Vulnerability Researcher's Handbook*. Packt Publishing.
 - Jon Erickson. *Hacking: The Art of Exploitation*. No Starch Press.
@@ -35,7 +35,3 @@
 - Playlist de Ricardo Narvaja sobre reversing de C++.
 - HackFest 2023 — *A practical approach to smart fuzzing* (Huascar Tejeda).
 - *Fuzzing from First Principles* (Alisa Esage).
-
-## Tus recursos propios
-
-- *TODO:* añade los write-ups, vídeos y conferencias que realmente hayas consultado.
