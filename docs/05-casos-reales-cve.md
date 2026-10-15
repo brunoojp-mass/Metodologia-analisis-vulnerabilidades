@@ -42,8 +42,6 @@ defensivo/académico.
 - **Qué aprendí:** un fallo de *lectura* sin control de tamaño puede ser catastrófico sin tocar
   el flujo de ejecución; y por qué un info-leak es tan valioso (también para derrotar ASLR en
   otros contextos).
-- **Mis observaciones propias:** *TODO.*
-- **Fuentes:** *TODO — verificar en NVD y advisory de OpenSSL.*
 
 ---
 
@@ -60,8 +58,7 @@ defensivo/académico.
   canónico de bastionado por eliminación de funcionalidad heredada.
 - **Qué aprendí:** el enorme coste de mantener protocolos legacy activos "por si acaso", y por
   qué el bastionado (cerrar lo innecesario) rompe cadenas de explotación enteras.
-- **Mis observaciones propias:** *TODO.*
-- **Fuentes:** *TODO — verificar MS17-010 y NVD.*
+
 
 > Aquí me quedo **deliberadamente a nivel de causa raíz y lección defensiva**; no reconstruyo el
 > exploit. El valor académico está en entender el patrón y cómo mitigarlo.
@@ -78,8 +75,6 @@ defensivo/académico.
 - **Impacto:** potencial RCE preautenticación; considerado "wormable".
 - **Qué aprendí:** cómo un UAF da al atacante la posibilidad de manipular estructuras internas,
   y por qué Microsoft lo trató con la máxima prioridad (parche incluso para SO fuera de soporte).
-- **Mis observaciones propias:** *TODO.*
-- **Fuentes:** *TODO — verificar advisory de Microsoft y NVD.*
 
 ---
 
@@ -97,4 +92,3 @@ metodología:
 4. **Los bugs vienen en familias** → tras encontrar uno, merece la pena *variant analysis* en
    código hermano.
 
-*TODO: añade los patrones que TÚ hayas identificado en tus propios análisis.*
