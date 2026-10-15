@@ -1,0 +1,19 @@
+# Binarios compilados del laboratorio
+*.exe
+*.o
+vulnerable
+corregido
+labs/vulnerable
+labs/corregido
+
+# Volcados y artefactos de crash
+*.dmp
+core
+core.*
+crashes/
+
+# Entornos y temporales
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
