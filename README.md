@@ -3,9 +3,9 @@
 > **Máster en Ciberseguridad — Módulo 6: Vulnerabilidades**
 > Tarea individual: *Metodología de análisis de vulnerabilidades y explotación*
 >
-> **Autor:** `<TU NOMBRE>`
-> **Repositorio:** `<URL PÚBLICA DE GITHUB>`
-> **Fecha:** `<FECHA DE ENTREGA>`
+> **Autor:** `Bruno Juste Pérez`
+> **Repositorio:** `https://github.com/brunoojp-mass/Metodologia-analisis-vulnerabilidades`
+> **Fecha:** `15/10/2026`
 
 ---
 
