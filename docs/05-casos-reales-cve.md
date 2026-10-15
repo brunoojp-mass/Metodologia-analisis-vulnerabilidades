@@ -5,11 +5,6 @@ La actividad pide "vulnerabilidades reales que **hayas investigado**". Este docu
 ficha se centra en **causa raíz y lecciones**, no en armamento: es el enfoque de un write-up
 defensivo/académico.
 
-> ⚠️ **Verifica los datos.** No tengo acceso a internet; las fichas de ejemplo resumen lo que es
-> conocimiento público general sobre estos CVEs, pero debes **contrastar cada dato** en NVD /
-> advisories oficiales antes de entregarlo, y quedarte solo con los CVEs que realmente hayas
-> trabajado.
-
 ---
 
 ## Plantilla de ficha
