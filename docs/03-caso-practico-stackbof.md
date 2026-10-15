@@ -78,7 +78,6 @@ Enviando 1000 bytes... OK
 Enviando 1100 bytes... CRASH (el proceso termina de forma anómala)
 ```
 
-> *TODO: captura de la salida real de tu fuzzer y del tamaño que provoca el primer crash.*
 
 El búfer es de 1000 bytes, pero el crash útil llega un poco más allá (hay que sobrepasar el
 búfer, el guardado de `EBP` y alcanzar la dirección de retorno).
@@ -106,8 +105,6 @@ que el debugger intenta ejecutar justo esa dirección:
 ```
 [EIP] = 42424242   ("BBBB")   <-- control de flujo confirmado
 ```
-
-> *TODO: captura del debugger con EIP = 42424242 y el valor de los demás registros.*
 
 Esto cumple dos objetivos: **confirma el control de flujo** y permite **calcular el offset
 exacto** para construir entradas precisas que sobrescriban `EIP` de forma controlada, evitando
