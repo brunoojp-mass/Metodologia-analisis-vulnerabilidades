@@ -89,10 +89,10 @@ Cada fase se desarrolla en [`docs/01-metodologia.md`](docs/01-metodologia.md).
 
 ## 4. Entorno de trabajo
 
-- **Host:** `<tu equipo>`
-- **VM de laboratorio:** `<p. ej. Windows 10 x86 / Ubuntu 22.04>` aislada (red *host-only*)
-- **Compilador:** MinGW (Windows) / GCC (Linux)
-- **Toolchain principal:** Ghidra, x64dbg / x32dbg, BinDiff, AFL++ / script propio, Python 3
+- **Host:** `VM Windows`
+- **VM de laboratorio:** `Windows 10 (x89)` aislada (red *host-only*)
+- **Compilador:** MingGW (Windows)
+- **Toolchain principal:** Ghidra, x64dbg / x32dbg, BindDiff, fuzzer propio en python, AFL++/WinAFL
 
 Detalle reproducible en [`labs/README.md`](labs/README.md).
 
